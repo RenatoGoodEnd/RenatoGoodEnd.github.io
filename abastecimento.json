@@ -1,8 +1,8 @@
 [
     {
-        "prefixo": 0,
-        "KmAtual": 0,
-        "diesel": 0,
+        "prefixo": 8002,
+        "KmAtual": 100000,
+        "diesel": 24,
         "arla": 0,
         "lubrificante": 0,
         "data": "",
